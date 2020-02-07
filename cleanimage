@@ -1,0 +1,3 @@
+docker stop tor
+docker rm tor
+docker rmi stav/torarm:latest
